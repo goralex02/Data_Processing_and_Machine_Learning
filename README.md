@@ -1,2 +1,2 @@
 # Data_Processing_and_Machine_Learning
-My study of machine learning and computer vision 
+Мое изучение Интеллектуальной обработки данных и Машинного обучения в рамках обучения в НИУ ВШЭ в 2023 году [в процессе доработки]
