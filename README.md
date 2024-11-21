@@ -24,3 +24,5 @@
 7_audio_processing - транскрибация аудио.
 
 8_emotion_recognition - распознавание эмоций.
+
+9_Text_classification - сравнение алгоритмов классификации текстов.
