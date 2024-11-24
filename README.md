@@ -27,5 +27,5 @@ Pandas, NumPy, matplotlib, seaborn, selenium, beautifulsoup, scikit-learn, Tenso
 
 ## Пет проекты:
 
-[Классификация впечатлений от полета](https://github.com/goralex02/Flight_satisfaction) - табличные данные + веб-морда
-[Предсказание лайков в соцсети](https://github.com/goralex02/Likes_prediction) - табличные, текстовые данные и изображения
+* [Классификация впечатлений от полета](https://github.com/goralex02/Flight_satisfaction) - табличные данные + веб-морда
+* [Предсказание лайков в соцсети](https://github.com/goralex02/Likes_prediction) - табличные, текстовые данные и изображения
