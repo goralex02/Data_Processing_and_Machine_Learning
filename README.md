@@ -8,7 +8,8 @@ Pandas, NumPy, matplotlib, seaborn, selenium, beautifulsoup, scikit-learn, Tenso
 
 ### Табличные данные:
 * [5_weather_predictions](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/5_weather_predictions.ipynb) - предсказания погоды различными методами.
-* [Классификация впечатлений от полета](https://github.com/goralex02/Flight_satisfaction)  - табличные данные + веб-морда
+* [Регрессия с PyTorch. Полносвязные нейронные сети.](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/PyTorch_regression_fully_connected.ipynb)  - предсказание года выпуска песни по некоторым числовым звуковым признакам.
+* [Классификация впечатлений от полета](https://github.com/goralex02/Flight_satisfaction)  - табличные данные + веб-морда.
 ### Изображения:
 * [1_1_object_detection](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/1_1_object_detection.ipynb) - простое распознавание объекта на изображении.
 * [1_2_object_detection](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/1_2_object_detecting_ipynb.ipynb) - распознавание объектов на изображении с помощью сверточной нейронной сети.
