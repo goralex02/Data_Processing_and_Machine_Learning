@@ -6,6 +6,12 @@ Pandas, NumPy, matplotlib, seaborn, selenium, beautifulsoup, scikit-learn, Tenso
 
 ## Состав репозитория:
 
+|**Проект**|**Задача проекта**|**Направление**|**Требуемые навыки и инструменты**|
+|:-----------------|:-------------------------------|:-----------|:-----------|
+|[01. Проект1](ссылка)  |  Описание.|  **Маркетинговый анализ**, **Продуктовый анализ**  | *Python*, *Pandas*, *Numpy*, *Matplotlib*, *Seaborn*, *SciPy*  |
+|[02. Проект2](ссылка)|Описание.|**Маркетинговый анализ**|*Python*, *Pandas*, *Numpy*, *Matplotlib*, *Предобработка данных*, *Исследовательский анализ данных*, *Проверка статистических гипотез*, *Описательная статистика*, *Визуализация данных*|
+|[03. Проект3](ссылка)|Описание.|**Машинное обучение**, **Классификация**|*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*, *Pyplot*, *Seaborn*, *Tqdm*|
+
 ### Табличные данные:
 * [5_weather_predictions](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/5_weather_predictions.ipynb) - предсказания погоды различными методами.
 * [Регрессия с PyTorch. Полносвязные нейронные сети.](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/PyTorch_regression_fully_connected.ipynb)  - предсказание года выпуска песни по некоторым числовым звуковым признакам.
