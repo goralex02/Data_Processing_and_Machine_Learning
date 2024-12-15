@@ -1,9 +1,6 @@
 # Data_Processing_and_Machine_Learning
 Портфолио выполненных работ по ML и DS
 
-## Технологии:
-Pandas, NumPy, matplotlib, seaborn, selenium, beautifulsoup, scikit-learn, TensorFlow, PyTorch, transformers, OpenCV.
-
 ## Состав репозитория:
 
 |**Проект**|**Задача проекта**|**Направление**|**Требуемые навыки и инструменты**|
