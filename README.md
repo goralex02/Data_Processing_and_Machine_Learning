@@ -16,13 +16,13 @@
 |**Проект**|**Задача проекта**|**Направление**|**Требуемые навыки и инструменты**|
 |:-----------------|:-------------------------------|:-----------|:-----------|
 |[5. Классификация изображений с дообучением](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/5_PyTorch_Image_Classification_DenseNet.ipynb)|Классификация изображений с помощью DenseNet121. Обучение модели с нуля, дообучение головы, fine-tuning всей модели.|**Глубинное обучение**, **Компьютерное зрение**, **Классификация**, **Дообучение**|*Python*, *Pandas*, *NumPy*, *matplotlib*, *PyTorch*, *Сверточные нейронные сети*, *DenseNet*|
-|[6. Детекция игральных карт с YOLO](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/7_YOLO_Cards_Detector.ipynb)|Детекция игральных карт от девятки до туза самописным и готовым решением YOLO.|**Глубинное обучение**, **Компьютерное зрение**, **Детекция**|*Python*, *Pandas*, *NumPy*, *matplotlib*, *PyTorch*, *TorchVision*, *Ultralytics*, *YOLOv11*|
+|[6. Детекция игральных карт с YOLO](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/6_YOLO_Cards_Detector.ipynb)|Детекция игральных карт от девятки до туза самописным и готовым решением YOLO.|**Глубинное обучение**, **Компьютерное зрение**, **Детекция**|*Python*, *Pandas*, *NumPy*, *matplotlib*, *PyTorch*, *TorchVision*, *Ultralytics*, *YOLOv11*|
 
 ## Audio processing
 
 |**Проект**|**Задача проекта**|**Направление**|**Требуемые навыки и инструменты**|
 |:-----------------|:-------------------------------|:-----------|:-----------|
-|[7. Классификация звуков по спектрограмме](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/6_Sounds_Classification.ipynb)|Классификация звуковых файлов по их спектрограмме.|**Глубинное обучение**, **Компьютерное зрение**, **Классификация**, **Обработка звука**|*Python*, *Pandas*, *NumPy*, *matplotlib*, *PyTorch*, *TorchVision*, *librosa*, *Сверточные нейронные сети*, *EfficientNet-B3*|
+|[7. Классификация звуков по спектрограмме](https://github.com/goralex02/Data_Processing_and_Machine_Learning/blob/main/7_Sounds_Classification.ipynb)|Классификация звуковых файлов по их спектрограмме.|**Глубинное обучение**, **Компьютерное зрение**, **Классификация**, **Обработка звука**|*Python*, *Pandas*, *NumPy*, *matplotlib*, *PyTorch*, *TorchVision*, *librosa*, *Сверточные нейронные сети*, *EfficientNet-B3*|
 |[8. Оценка качества синтеза модели Parler-TTS-mini-jenny-30H](https://github.com/goralex02/parler-tts-mini-jenny-30h_evaluation/tree/main)|У датасета Jenny из коробки нет разделения на тренировочный и тестовый датасет, необходимо самостоятельно определить сетап для оценки модели: аудиозаписи, метрики, текстовое описание для генерации и тд.|**Машинное обучение**, **Обработка звука**, **ParlerTTS**|*Python*, *PyTorch*, *TorchAudio*, *Transformers*, *librosa*, *soundfile*, *datasets*, *Matplotlib*|
 
 ## Natural Language Processing
